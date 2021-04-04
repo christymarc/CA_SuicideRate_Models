@@ -1,1 +1,1 @@
-# CA_SuicideRate_Models
+This repository includes a regression model and a deep learning model tasked with predicting Calfornia suicide rates based upon demographical features. The models are trained using data from the U.S. Census Bureau and the CDC. Both models are written in Python. The regression model uses Sklearn, and the deep learning model is a perceptron neural network that uses Pytorch. 

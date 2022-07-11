@@ -8,4 +8,4 @@ All models are written in Python. The linear regression model uses Sklearn, and 
 
 In the "Old_Version_Old_Data" folder, there are previous versions of the models. These models used different U.S. Census Bureau data and made predictions based on only 10 demographical features. Also, the previous version of the regression model predicts suicide counts rather than risk level.
 
-The "pearc_poster" pdf is a poster that summarizes this work. The poster was presented at ACM's Practice and Experience in Advanced Research Computing Conference in July of 2021.
+The "PEARC_Poster" pdf is a poster that summarizes this work. The poster was presented at ACM's Practice and Experience in Advanced Research Computing Conference in July of 2021.
